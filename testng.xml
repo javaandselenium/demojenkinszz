@@ -5,6 +5,8 @@
     <classes>
       <class name="sample.Demo"/>
       <class name="sample.Demo2"/>
+      <class name="sample.Demo4"/>
+      <class name="sample.Demo3"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
